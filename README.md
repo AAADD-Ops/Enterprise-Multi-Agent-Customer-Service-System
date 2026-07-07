@@ -62,7 +62,7 @@ REDIS_URL=redis://redis:6379/0
 
 ### 4. 启动服务
 
-C:\Users\29115\AppData\Local\Microsoft\WinGet\Packages\taizod1024.redis-windows-fork_Microsoft.Winget.Source_8wekyb3d8bbwe\Redis-8.8.0-Windows-x64-msys2\redis-server.exe
+你的redis地址/redis-server.exe
 
 cd D:\企业级多智能体客服系统\backend
 python -c "import asyncio; from app.mcp.server import main; asyncio.run(main())"
